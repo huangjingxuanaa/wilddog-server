@@ -1,5 +1,5 @@
 {
-  "name": "wilddogserver",
+  "name": "wilddog/server",
   "type": "library",
   "description": "",
   "keywords": ["wilddog"],
