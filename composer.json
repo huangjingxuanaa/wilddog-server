@@ -1,0 +1,21 @@
+{
+  "name": "wilddog-server",
+  "type": "library",
+  "description": "",
+  "keywords": ["wilddog"],
+  "homepage": "https://github.com/huangjingxuanaa/wilddog-server",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jingxuang Huang",
+      "email": "",
+      "homepage": "https://github.com/huangjingxuanaa/",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "autoload": {
+  }
+}
